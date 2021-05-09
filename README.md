@@ -1,7 +1,8 @@
 # Stock_prediction with 3 perspective (2020.01 ~ 2020.08)
 
 ### Team member
-JeongMan Choi(https://github.com/JeongmanChoi), SuYeon Jo(https://github.com/susie202404), SangHyung Jung
+JeongMan Choi(https://github.com/JeongmanChoi), 
+SooYeon Cho(https://github.com/susie202404), SangHyung Jung
 
 ### Overview
 Aim to predict stock up&down with Behavior View, Fundamental View, Technical View
