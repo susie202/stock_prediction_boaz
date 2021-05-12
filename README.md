@@ -2,7 +2,7 @@
 
 ### Team member
 JeongMan Choi(https://github.com/JeongmanChoi), 
-SooYeon Cho(https://github.com/susie202404), SangHyung Jung
+SooYeon Cho(https://github.com/susie202), SangHyung Jung
 
 ### Overview
 Aim to predict stock up&down with Behavior View, Fundamental View, Technical View
